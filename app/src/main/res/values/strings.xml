@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab 6 Design Support</string>
+    <string name="kotlin_screen_title">Kotlin Demo</string>
+    <string name="java_screen_title">Java Demo</string>
+    <string name="lab_title">Лабораторная работа №6</string>
+    <string name="lab_description">Kotlin-экран с Snackbar и переходом на Java-экран.</string>
+    <string name="show_short_snackbar">Показать короткий Snackbar</string>
+    <string name="open_java_demo">Открыть Java-экран</string>
+    <string name="dismiss_snackbar">Скрыть Snackbar</string>
+    <string name="fab_description">Показать основной Snackbar</string>
+    <string name="java_demo_description">Java-экран</string>
+    <string name="java_demo_body">Нажмите FAB для показа Snackbar.</string>
+    <string name="back_to_kotlin">Вернуться к Kotlin-экрану</string>
+    <string name="snackbar_short_text">Короткий Snackbar на Kotlin: показано базовое сообщение.</string>
+    <string name="snackbar_long_text">Пора изучать Android Design Support на Kotlin!</string>
+    <string name="snackbar_java_text">Пора изучать Android Design Support на Java!</string>
+    <string name="snackbar_action_yes">Да</string>
+    <string name="toast_action_pressed">Действие Snackbar выполнено</string>
+</resources>
